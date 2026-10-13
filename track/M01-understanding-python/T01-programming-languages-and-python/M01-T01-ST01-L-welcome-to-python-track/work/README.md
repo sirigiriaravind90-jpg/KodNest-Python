@@ -2,19 +2,19 @@
 
 ## My Name
 
-Write your name.
+Sirigiri Aravind
 
 ## What I Learned in Foundation Month
 
-Write at least three things you learned.
+pseudo code,problem solving
 
 ## Why I Selected Python
 
-Write your reason in your own words.
+high demand in market
 
 ## My Career Goal
 
-Write the role you want to achieve.
+ceo
 
 ## What I Understood Today
 
